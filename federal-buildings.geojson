@@ -10,6 +10,110 @@
         {
             "type": "Feature",
             "properties": {
+                "OBJECTID_1": 15,
+                "OBJECTID": 81,
+                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0117",
+                "NUM": 117,
+                "BLDG_NAME": "Jackson Place - Trowbridge House",
+                "HSR": "Yes",
+                "GIS_ID": "FED_16",
+                "GSAAREA": 3976,
+                "ALIAS": null,
+                "OWNERSHIP": "OWNED",
+                "X": 396683.78,
+                "Y": 136810.94,
+                "ADDRID": 218720,
+                "ADDRESS": "708 JACKSON PLACE NW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03808250290953,
+                    38.898972865167565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": 14,
+                "OBJECTID": 80,
+                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0118",
+                "NUM": 118,
+                "BLDG_NAME": "Jackson Place - Rathbone House",
+                "HSR": "Yes",
+                "GIS_ID": "FED_15",
+                "GSAAREA": 4346,
+                "ALIAS": null,
+                "OWNERSHIP": "OWNED",
+                "X": 396682.7,
+                "Y": 136819.44,
+                "ADDRID": 218724,
+                "ADDRESS": "712 JACKSON PLACE NW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03841814424453,
+                    38.89913612394725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": 85,
+                "OBJECTID": 83,
+                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0119",
+                "NUM": 119,
+                "BLDG_NAME": "Jackson Place - Mary Jesup Blair House",
+                "HSR": "Yes",
+                "GIS_ID": "FED_18",
+                "GSAAREA": 4422,
+                "ALIAS": null,
+                "OWNERSHIP": "OWNED",
+                "X": 396683.7,
+                "Y": 136826.67,
+                "ADDRID": 218727,
+                "ADDRESS": "716 JACKSON PLACE NW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03807051571899,
+                    38.89923874355947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": 17,
+                "OBJECTID": 84,
+                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0120",
+                "NUM": 120,
+                "BLDG_NAME": "Jackson Place - 718",
+                "HSR": "Yes",
+                "GIS_ID": "FED_19",
+                "GSAAREA": 4758,
+                "ALIAS": null,
+                "OWNERSHIP": "OWNED",
+                "X": 396682.86,
+                "Y": 136833.16,
+                "ADDRID": 218728,
+                "ADDRESS": "718 JACKSON PLACE NW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.038406157054,
+                    38.89935069205824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "waterway": "dam",
                 "name": "Yeah!"
             },
@@ -824,32 +928,6 @@
                 "coordinates": [
                     -77.038237508593,
                     38.899552140000544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "OBJECTID_1": 85,
-                "OBJECTID": 83,
-                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0119",
-                "NUM": 119,
-                "BLDG_NAME": "Jackson Place - Mary Jesup Blair House",
-                "HSR": "Yes",
-                "GIS_ID": "FED_18",
-                "GSAAREA": 4422,
-                "ALIAS": null,
-                "OWNERSHIP": "OWNED",
-                "X": 396683.7,
-                "Y": 136826.67,
-                "ADDRID": 218727,
-                "ADDRESS": "716 JACKSON PLACE NW"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03823056404988,
-                    38.899285404727976
                 ]
             }
         },
@@ -2572,58 +2650,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID_1": 14,
-                "OBJECTID": 80,
-                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0118",
-                "NUM": 118,
-                "BLDG_NAME": "Jackson Place - Rathbone House",
-                "HSR": "Yes",
-                "GIS_ID": "FED_15",
-                "GSAAREA": 4346,
-                "ALIAS": null,
-                "OWNERSHIP": "OWNED",
-                "X": 396682.7,
-                "Y": 136819.44,
-                "ADDRID": 218724,
-                "ADDRESS": "712 JACKSON PLACE NW"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03824205721064,
-                    38.89922027052018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "OBJECTID_1": 15,
-                "OBJECTID": 81,
-                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0117",
-                "NUM": 117,
-                "BLDG_NAME": "Jackson Place - Trowbridge House",
-                "HSR": "Yes",
-                "GIS_ID": "FED_16",
-                "GSAAREA": 3976,
-                "ALIAS": null,
-                "OWNERSHIP": "OWNED",
-                "X": 396683.78,
-                "Y": 136810.94,
-                "ADDRID": 218720,
-                "ADDRESS": "708 JACKSON PLACE NW"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.03822956586426,
-                    38.89914370354373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID_1": 16,
                 "OBJECTID": 82,
                 "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0126",
@@ -2644,32 +2670,6 @@
                 "coordinates": [
                     -77.03820423929498,
                     38.899855102022904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "OBJECTID_1": 17,
-                "OBJECTID": 84,
-                "WEBURL": "http://www.iolp.gsa.gov/iolp/BuildingInfo.asp?bID=DC0120",
-                "NUM": 120,
-                "BLDG_NAME": "Jackson Place - 718",
-                "HSR": "Yes",
-                "GIS_ID": "FED_19",
-                "GSAAREA": 4758,
-                "ALIAS": null,
-                "OWNERSHIP": "OWNED",
-                "X": 396682.86,
-                "Y": 136833.16,
-                "ADDRID": 218728,
-                "ADDRESS": "718 JACKSON PLACE NW"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.0382402789746,
-                    38.899343865807126
                 ]
             }
         },
