@@ -9,6 +9,75 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02298427549546,
+                    38.902519612039285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.02298427549546,
+                        38.902519612039285
+                    ],
+                    [
+                        -77.01615377725373,
+                        38.90487511328127
+                    ],
+                    [
+                        -77.01615377725373,
+                        38.90254045752576
+                    ],
+                    [
+                        -77.00905541633585,
+                        38.902498766546735
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01615377725373,
+                    38.90487511328127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01615377725373,
+                    38.90254045752576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00905541633585,
+                    38.902498766546735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "OBJECTID_1": 15,
                 "OBJECTID": 81,
