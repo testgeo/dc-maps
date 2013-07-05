@@ -9,6 +9,36 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {
+                "area": "yes",
+                "leisure": "park"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.03192014002705,
+                            38.8993722332811
+                        ],
+                        [
+                            -77.02624201213926,
+                            38.90134124847092
+                        ],
+                        [
+                            -77.03188516182651,
+                            38.90133217479344
+                        ],
+                        [
+                            -77.03192014002705,
+                            38.8993722332811
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {},
             "geometry": {
                 "type": "Point",
