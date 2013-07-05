@@ -13,8 +13,108 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -77.02404618746084,
+                    38.900805486926714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "railway": "rail"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -77.02404618746084,
+                        38.900805486926714
+                    ],
+                    [
+                        -77.01988063874963,
+                        38.90085679554512
+                    ],
+                    [
+                        -77.01989262594017,
+                        38.8997653133047
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01988063874963,
+                    38.90085679554512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01989262594017,
+                    38.8997653133047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -77.02298427549546,
                     38.902519612039285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02298427549546,
+                    38.902519612039285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01615377725373,
+                    38.90487511328127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01615377725373,
+                    38.90254045752576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00905541633585,
+                    38.902498766546735
                 ]
             }
         },
